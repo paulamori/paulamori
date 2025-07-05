@@ -12,7 +12,7 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/>
 </a>
 </p>
-<br>
+
 ###  📊 Minhas Estatísticas no GitHub:
 
 * (Esses dados serão atualizados conforme eu criar novos projetos!) *
