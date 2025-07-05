@@ -1,16 +1,23 @@
-## Hi there 👋
+#  Olá, eu sou a Paula! 👋
+<br>
+Estudo **Ciência da Computação** no Instituto Federal  Minas Gerais! Estou iniciando a minha jornada no mundo da tecnologia, e sou fascinada por entender as leis que regem o funcionamento das coisas. Amo aprender coisas novas todos os dias!
+<br>
+Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem **C, Java e Python**. Também tenho grande interesse por **redes de computadores** e **arquitetura de computadores**. Pretendo explorar diversas áreas da computação.
+<br>
 
-<!--
-**paulamori/paulamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Encontre-me aqui:
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/pauladeamorim" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/>
+</a>
+</p>
+<br>
+### 📊 Minhas Estatísticas no GitHub:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(Esses dados serão atualizados conforme eu criar novos projetos!)*
+
+[![Estatísticas de Paula no GitHub](https://github-readme-stats.vercel.app/api?username=paulamori&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
