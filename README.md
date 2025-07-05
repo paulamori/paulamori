@@ -1,9 +1,9 @@
 #  Olá, eu sou a Paula! 👋
-<br>
+
 Estudo Ciência da Computação no Instituto Federal  Minas Gerais! Estou iniciando a minha jornada no mundo da tecnologia, e sou fascinada por entender as leis que regem o funcionamento das coisas. Amo aprender coisas novas todos os dias!
-<br>
+
 Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem C, Java e Python. Também tenho grande interesse por redes de computadores e arquitetura de computadores. Pretendo explorar diversas áreas da computação.
-<br>
+
 
 ### 🔗 Encontre-me aqui:
 
@@ -13,9 +13,9 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 </a>
 </p>
 <br>
-### 📊 Minhas Estatísticas no GitHub:
+###  📊 Minhas Estatísticas no GitHub:
 
-*(Esses dados serão atualizados conforme eu criar novos projetos!)*
+* (Esses dados serão atualizados conforme eu criar novos projetos!) *
 
 [![Estatísticas de Paula no GitHub](https://github-readme-stats.vercel.app/api?username=paulamori&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
