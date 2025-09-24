@@ -15,8 +15,8 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 
 ###  📊 Minhas Estatísticas no GitHub:
 
-* (Esses dados serão atualizados conforme eu criar novos projetos!) *
+*(Esses dados serão atualizados conforme eu criar novos projetos!)*
 
-[![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulamori)](https://github.com/paulamori/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paulamori&show_icons=true&theme=tokyonight)
 
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=tokyonight)
