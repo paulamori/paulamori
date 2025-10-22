@@ -1,6 +1,6 @@
 #  Olá, eu sou a Paula! 👋
 
-Estudo Ciência da Computação no IFMG! Estou iniciando a minha jornada no mundo da tecnologia, e sou fascinada por entender as leis que regem o funcionamento das coisas. Amo aprender coisas novas todos os dias!
+Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais! Sou apaixonada por tecnologia e espero poder usar meus conhecimentos para contribuir na construção de um mundo inovador!
 
 Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem C, Java e Python. Também tenho grande interesse por redes de computadores e arquitetura de computadores. Pretendo explorar diversas áreas da computação.
 
