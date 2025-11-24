@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais! Sou apaixonada por tecnologia e espero poder usar meus conhecimentos para contribuir na construção de um mundo inovador!
 
-Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem C, Java e Python. Também tenho grande interesse por redes de computadores e arquitetura de computadores. Pretendo explorar diversas áreas da computação.
+Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem C e Java. Também tenho grande interesse por quality assurance (QA) e Redes de computadores. Pretendo explorar diversas áreas da computação.
 
 
 ### 🔗 Encontre-me aqui:
