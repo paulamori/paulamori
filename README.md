@@ -23,4 +23,4 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 
 ![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=panda)
 
-![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=panda&langs_count=5)
+![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=panda&langs_count=6)
