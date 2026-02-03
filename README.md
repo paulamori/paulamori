@@ -8,8 +8,8 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 ### 🔗 Encontre-me aqui:
 
 <p align="left">
-![[LinkedIn!](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pauladeamorim)
-![[Gmail!](https://skillicons.dev/icons?i=gmail)](paulaadeamorim@gmail.com)
+[![LinkedIn!](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pauladeamorim)
+[![Gmail!](https://skillicons.dev/icons?i=gmail)](paulaadeamorim@gmail.com)
 </p>
 
 ###  📊 Minhas Estatísticas no GitHub:
