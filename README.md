@@ -9,10 +9,10 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pauladeamorim">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:paulaadeamorim@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -21,6 +21,6 @@ Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de pr
 
 *(Esses dados serão atualizados conforme eu criar novos projetos!)*
 
-![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=panda)
 
 ![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=panda&langs_count=5)
