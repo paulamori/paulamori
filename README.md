@@ -1,26 +1,26 @@
 #  Olá, eu sou a Paula! 👋
 
-Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais! Sou apaixonada por tecnologia e espero poder usar meus conhecimentos para contribuir na construção de um mundo inovador!
+### :star2: Sobre mim:
+Sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais! 
+Sou apaixonada por tecnologia e espero poder usar meus conhecimentos para contribuir na construção de um mundo inovador!
 
-Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação, em linguagem C, Python e Java. Também tenho grande interesse por quality assurance (QA). Pretendo explorar diversas áreas da computação.
+Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação em Python e Java. 
+Também tenho grande interesse por quality assurance (QA) e infraestrutura. 
+
+### 📚 Estou aprendendo:
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
 
 
-### 🔗 Encontre-me aqui:
-
+### :mag_right: Estou por aqui:
 <p align="left">
-  <a href="https://www.linkedin.com/in/pauladeamorim">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:paulaadeamorim@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/pauladeamorim"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:paulaadeamorim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
-###  📊 Minhas Estatísticas no GitHub:
+###  📊 Minhas estatísticas:
 
 *(Esses dados serão atualizados conforme eu criar novos projetos!)*
 
-![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=panda)
+![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=panda&cache_seconds=1800)
 
-![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=panda&langs_count=6)
+![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=panda&langs_count=6&cache_seconds=1800)
