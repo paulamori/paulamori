@@ -26,4 +26,4 @@ Também tenho grande interesse por quality assurance (QA) e infraestrutura.
 
 ![Estatísticas do GitHub](https://paulamori-stats.vercel.app/api?username=paulamori&show_icons=true&theme=rose_pine&cache_seconds=1800)
 
-![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=rose_pine&langs_count=6&cache_seconds=1800)
+![Linguagens mais usadas](https://paulamori-stats.vercel.app/api/top-langs/?username=paulamori&layout=compact&theme=rose_pine&langs_count=10&cache_seconds=1800)
