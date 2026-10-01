@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e espero poder usar meus conhecimentos para contri
 
 Meu maior objetivo, atualmente, é desenvolver uma base sólida em lógica de programação em Python e Java. 
 
-Também tenho grande interesse por quality assurance (QA) e infraestrutura. 
+Também tenho grande interesse por infraestrutura e IA. 
 
 ### 📚 Estou aprendendo:
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
